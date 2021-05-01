@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button } from 'react-mdl';
+import { Tabs, Tab, Grid, Cell, Card, CardText, CardActions, Button } from 'react-mdl';
 import StyleWithMyWeatherApp from './images/Style-With-My-Weather-App.png';
 import PasswordGenerator from './images/Password-Generator.png';
 import WorkDayScheduler from './images/Work-Day-Scheduler.png';
