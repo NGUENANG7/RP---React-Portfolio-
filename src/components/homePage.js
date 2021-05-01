@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
+import Me from './images/me.jpg';
 
 class HomePage extends Component {
   render() {
@@ -11,6 +12,8 @@ class HomePage extends Component {
 
             <div>
               <h1>Gregory Nguenang</h1>
+
+              <img src={Me} />
 
               <div>
 
