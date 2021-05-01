@@ -21,7 +21,7 @@ class Projects extends Component {
         <div className="projects">
 
           {/* Style With My Weather App */}
-          <Card shadow={5} style={{ minWidth: '350', margin: 'auto' }}>
+          <Card shadow={5} style={{ minWidth: '150', margin: 'auto' }}>
             {/* <CardTitle style={{ height: '176px'}} ><img src={StyleWithMyWeatherApp}/></CardTitle> */}
             <img src={StyleWithMyWeatherApp} />
             <CardText>
@@ -34,7 +34,7 @@ class Projects extends Component {
           </Card>
 
           {/* Password Generator */}
-          <Card shadow={5} style={{ minWidth: '350', margin: 'auto' }}>
+          <Card shadow={5} style={{ minWidth: '150', margin: 'auto' }}>
             <img src={PasswordGenerator} />
             <CardText>
               Password Generator
@@ -46,7 +46,7 @@ class Projects extends Component {
           </Card>
 
           {/* Work Day Scheduler */}
-          <Card shadow={5} style={{ minWidth: '350', margin: 'auto' }}>
+          <Card shadow={5} style={{ minWidth: '150', margin: 'auto' }}>
             <img src={WorkDayScheduler} />
             <CardText>
               Work Day Scheduler
@@ -58,7 +58,7 @@ class Projects extends Component {
           </Card>
 
           {/* Weather Dashboard */}
-          <Card shadow={5} style={{ minWidth: '350', margin: 'auto' }}>
+          <Card shadow={5} style={{ minWidth: '150', margin: 'auto' }}>
             <img src={WeatherDashboard} />
             <CardText>
               Weather Dashboard
@@ -70,7 +70,7 @@ class Projects extends Component {
           </Card>
 
           {/* Workout Tracker */}
-          <Card shadow={5} style={{ minWidth: '350', margin: 'auto' }}>
+          <Card shadow={5} style={{ minWidth: '150', margin: 'auto' }}>
             <img src={WorkoutTracker} />
             <CardText>
               Workout Tracker
@@ -82,7 +82,7 @@ class Projects extends Component {
           </Card>
 
           {/* Progressive Budget Tracker */}
-          <Card shadow={5} style={{ minWidth: '350', margin: 'auto' }}>
+          <Card shadow={5} style={{ minWidth: '150', margin: 'auto' }}>
             <img src={ProgressiveBudgetTracker} />
             <CardText>
               Progressive Budget Tracker
