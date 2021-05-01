@@ -23,7 +23,7 @@ class Projects extends Component {
           {/* Style With My Weather App */}
           <Card shadow={3} style={{ minWidth: '350', margin: 'auto' }}>
             {/* <CardTitle style={{ height: '176px'}} ><img src={StyleWithMyWeatherApp}/></CardTitle> */}
-            <img src={StyleWithMyWeatherApp} />
+            <img src={StyleWithMyWeatherApp} alt="swmwa"/>
             <CardText>
               Style With My Weather App
             </CardText>
@@ -35,7 +35,7 @@ class Projects extends Component {
 
           {/* Password Generator */}
           <Card shadow={3} style={{ minWidth: '350', margin: 'auto' }}>
-            <img src={PasswordGenerator} />
+            <img src={PasswordGenerator} alt="pg"/>
             <CardText>
               Password Generator
             </CardText>
@@ -47,7 +47,7 @@ class Projects extends Component {
 
           {/* Work Day Scheduler */}
           <Card shadow={3} style={{ minWidth: '350', margin: 'auto' }}>
-            <img src={WorkDayScheduler} />
+            <img src={WorkDayScheduler} alt="wds"/>
             <CardText>
               Work Day Scheduler
             </CardText>
@@ -59,7 +59,7 @@ class Projects extends Component {
 
           {/* Weather Dashboard */}
           <Card shadow={3} style={{ minWidth: '350', margin: 'auto' }}>
-            <img src={WeatherDashboard} />
+            <img src={WeatherDashboard} alt="wd"/>
             <CardText>
               Weather Dashboard
             </CardText>
@@ -71,7 +71,7 @@ class Projects extends Component {
 
           {/* Workout Tracker */}
           <Card shadow={3} style={{ minWidth: '350', margin: 'auto' }}>
-            <img src={WorkoutTracker} />
+            <img src={WorkoutTracker} alt="wt"/>
             <CardText>
               Workout Tracker
             </CardText>
@@ -83,7 +83,7 @@ class Projects extends Component {
 
           {/* Progressive Budget Tracker */}
           <Card shadow={3} style={{ minWidth: '350', margin: 'auto' }}>
-            <img src={ProgressiveBudgetTracker} />
+            <img src={ProgressiveBudgetTracker} alt="pbt"/>
             <CardText>
               Progressive Budget Tracker
             </CardText>
