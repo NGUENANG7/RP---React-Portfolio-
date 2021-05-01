@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/NGUENANG7/RP---React-Portfolio-/static/css/main.d336c283.chunk.css",
+    "main.js": "/NGUENANG7/RP---React-Portfolio-/static/js/main.a9a64be1.chunk.js",
+    "main.js.map": "/NGUENANG7/RP---React-Portfolio-/static/js/main.a9a64be1.chunk.js.map",
+    "runtime-main.js": "/NGUENANG7/RP---React-Portfolio-/static/js/runtime-main.0bb4e11d.js",
+    "runtime-main.js.map": "/NGUENANG7/RP---React-Portfolio-/static/js/runtime-main.0bb4e11d.js.map",
+    "static/css/2.86fbdad3.chunk.css": "/NGUENANG7/RP---React-Portfolio-/static/css/2.86fbdad3.chunk.css",
+    "static/js/2.32ebada6.chunk.js": "/NGUENANG7/RP---React-Portfolio-/static/js/2.32ebada6.chunk.js",
+    "static/js/2.32ebada6.chunk.js.map": "/NGUENANG7/RP---React-Portfolio-/static/js/2.32ebada6.chunk.js.map",
+    "index.html": "/NGUENANG7/RP---React-Portfolio-/index.html",
+    "static/css/2.86fbdad3.chunk.css.map": "/NGUENANG7/RP---React-Portfolio-/static/css/2.86fbdad3.chunk.css.map",
+    "static/css/main.d336c283.chunk.css.map": "/NGUENANG7/RP---React-Portfolio-/static/css/main.d336c283.chunk.css.map",
+    "static/js/2.32ebada6.chunk.js.LICENSE.txt": "/NGUENANG7/RP---React-Portfolio-/static/js/2.32ebada6.chunk.js.LICENSE.txt",
+    "static/media/Password-Generator.69d2d046.png": "/NGUENANG7/RP---React-Portfolio-/static/media/Password-Generator.69d2d046.png",
+    "static/media/Progressive-Budget-Tracker.1c5add93.png": "/NGUENANG7/RP---React-Portfolio-/static/media/Progressive-Budget-Tracker.1c5add93.png",
+    "static/media/Style-With-My-Weather-App.ef584450.png": "/NGUENANG7/RP---React-Portfolio-/static/media/Style-With-My-Weather-App.ef584450.png",
+    "static/media/Weather-Dashboard.e5758ca0.png": "/NGUENANG7/RP---React-Portfolio-/static/media/Weather-Dashboard.e5758ca0.png",
+    "static/media/Work-Day-Scheduler.753d89ef.png": "/NGUENANG7/RP---React-Portfolio-/static/media/Work-Day-Scheduler.753d89ef.png",
+    "static/media/Workout-Tracker.9dad2117.png": "/NGUENANG7/RP---React-Portfolio-/static/media/Workout-Tracker.9dad2117.png",
+    "static/media/me.266407cd.jpg": "/NGUENANG7/RP---React-Portfolio-/static/media/me.266407cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb4e11d.js",
+    "static/css/2.86fbdad3.chunk.css",
+    "static/js/2.32ebada6.chunk.js",
+    "static/css/main.d336c283.chunk.css",
+    "static/js/main.a9a64be1.chunk.js"
+  ]
+}
