@@ -15,17 +15,17 @@ class HomePage extends Component {
               <div>
 
                 {/* LinkedIn */}
-                <a href="https://www.linkedin.com/in/gregory-nguenang-083748147/" target="_blank">
+                <a target="_blank" href="https://www.linkedin.com/in/gregory-nguenang-083748147/">
                   <icon className="fa fa-linkedin icons" />
                 </a>
 
                 {/* Github */}
-                <a href="https://github.com/NGUENANG7" target="_blank">
+                <a target="_blank" href="https://github.com/NGUENANG7">
                   <icon className="fa fa-github icons" />
                 </a>
 
                 {/* Resume */}
-                <a href="https://drive.google.com/file/d/1B7jFKNwKnLNn04F01Cw-fe7QqaBrCkMo/view?usp=sharing" target="_blank">
+                <a target="_blank" href="https://drive.google.com/file/d/1B7jFKNwKnLNn04F01Cw-fe7QqaBrCkMo/view?usp=sharing">
                   <icon className="fa fa-paperclip icons" />
                 </a>
 
