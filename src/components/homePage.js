@@ -15,7 +15,7 @@ class HomePage extends Component {
               <div>
 
                 {/* LinkedIn */}
-                <a href="linkedin.com/in/gregory-nguenang-083748147" target="_blank">
+                <a href="https://www.linkedin.com/in/gregory-nguenang-083748147/" target="_blank">
                   <icon className="fa fa-linkedin icons" />
                 </a>
 
@@ -25,7 +25,7 @@ class HomePage extends Component {
                 </a>
 
                 {/* Resume */}
-                <a href="assets/Resume.pdf" target="_blank">
+                <a href="https://drive.google.com/file/d/1B7jFKNwKnLNn04F01Cw-fe7QqaBrCkMo/view?usp=sharing" target="_blank">
                   <icon className="fa fa-paperclip icons" />
                 </a>
 
