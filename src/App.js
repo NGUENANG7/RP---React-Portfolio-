@@ -21,7 +21,7 @@ class App extends Component {
 
           <div>
             <Tabs>
-              <Tab>AB</Tab>
+              <Tab>GN</Tab>
             </Tabs>
           </div>
           

@@ -10,17 +10,17 @@ class HomePage extends Component {
           <Cell col={12}>
 
             <div>
-              <h1>Adrian Banda</h1>
+              <h1>Gregory Nguenang</h1>
 
               <div>
 
                 {/* LinkedIn */}
-                <a href="https://www.linkedin.com/in/adrian-banda-44959a150/" target="_blank">
+                <a href="linkedin.com/in/gregory-nguenang-083748147" target="_blank">
                   <icon className="fa fa-linkedin icons" />
                 </a>
 
                 {/* Github */}
-                <a href="https://github.com/banda-adrian" target="_blank">
+                <a href="https://github.com/NGUENANG7" target="_blank">
                   <icon className="fa fa-github icons" />
                 </a>
 

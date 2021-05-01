@@ -27,7 +27,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent>
                     <icons className="fa fa-envelope-o icons"/>
-                    banda_adrian@outlook.com
+                    njethur@outlook.com
                   </ListItemContent>
                 </ListItem>
 
@@ -35,7 +35,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent>
                     <icons className="fa fa-mobile icons"/>
-                    (469) 671-4064
+                    (713) 575-0570
                   </ListItemContent>
                 </ListItem>
 
@@ -43,7 +43,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent>
                     <icons className="fa fa-instagram icons"/>
-                    @codebybanda
+                    @drlove1001
                   </ListItemContent>
                 </ListItem>
 
