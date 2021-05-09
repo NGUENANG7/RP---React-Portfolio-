@@ -5,7 +5,7 @@ import PasswordGenerator from './images/Password-Generator.png';
 import WorkDayScheduler from './images/Work-Day-Scheduler.png';
 import WeatherDashboard from './images/Weather-Dashboard.png';
 import WorkoutTracker from './images/Workout-Tracker.png';
-import ProgressiveBudgetTracker from './images/Progressive-Budget-Tracker.png';
+import GoogleBooksReactSearch from './images/Google-Books-React-Search.png';
 
 class Projects extends Component {
   constructor(props) {
