@@ -81,15 +81,15 @@ class Projects extends Component {
             </CardActions>
           </Card>
 
-          {/* Progressive Budget Tracker */}
+          {/* Google Books React Search */}
           <Card shadow={3} style={{ minWidth: '350', margin: 'auto' }}>
-            <img src={ProgressiveBudgetTracker} alt="pbt"/>
+            <img src={GoogleBooksReactSearch} alt="pbt"/>
             <CardText>
-              Progressive Budget Tracker
+            Google Books React Search
             </CardText>
             <CardActions border>
-              <a href="https://rocky-beach-54353.herokuapp.com/?id=607dd65ab8f4970015d538c1"><Button colored>Website</Button></a>
-              <a href="https://github.com/NGUENANG7/Progressive-Budget-Tracker"><Button colored>GitHub Repo</Button></a>
+              <a href="https://fierce-caverns-78645.herokuapp.com/"><Button colored>Website</Button></a>
+              <a href="https://github.com/NGUENANG7/Google-Books-React-Search"><Button colored>GitHub Repo</Button></a>
             </CardActions>
           </Card>
 
